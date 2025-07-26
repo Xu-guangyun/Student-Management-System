@@ -19,7 +19,7 @@
 
 2.找到该压缩包并解压，找到Student Management System Setup.exe，此为程序的安装程序。
 
-3.运行安装程序，默认安装路径为C:\Program Files，可自行更改。
+3.运行安装程序，默认安装路径为C:\Program Files\Student Management System，可自行更改。
 
 4.安装完成后，运行程序Student Management System.exe，可使用根目录中的 学生信息.txt（范本）进行测试。
 
